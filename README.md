@@ -17,9 +17,6 @@ Text summarization is the process of automatically generating natural language s
 
 </br>
 
-
-
-
 [![GitHub followers](https://img.shields.io/github/followers/umangbagadi03.svg?label=Follow%20@umangbagadi03&style=social)](https://github.com/umangbagadi03) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/BagadiUmang?style=social)]([https://twitter.com/BagadiUmang])
 </div>

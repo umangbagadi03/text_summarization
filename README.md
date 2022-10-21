@@ -7,7 +7,7 @@ Text summarization is the process of automatically generating natural language s
 ---
 #### I would like to thank [Srushti Deshmukh](https://github.com/Srushti2002), for her help and contribution to this project. Do check out her Github account!
 
-##### Copyright (c) 2020 Umang Bagadi
+##### Copyright (c) 2022 Umang Bagadi
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">My Profile :

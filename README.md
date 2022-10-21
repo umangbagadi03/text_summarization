@@ -5,7 +5,7 @@ The objective of this project was to build an Abstractive Text Summarizer using 
 Text summarization is the process of automatically generating natural language summaries from an input document while retaining the important points. It would help in easy and fast retrieval of information. Abstractive summarization systems generate new phrases, possibly rephrasing or using words that were not in the original text.
 
 ---
-#### I would like to thank [Srushti Deshmukh](https://github.com/Srushti2002) . for her help and contribution to this project. Do check out her Github accounts!
+#### I would like to thank [Srushti Deshmukh](https://github.com/Srushti2002), for her help and contribution to this project. Do check out her Github accounts!
 
 ##### Copyright (c) 2020 Umang Bagadi
 
